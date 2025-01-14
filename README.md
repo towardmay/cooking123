@@ -1,6 +1,4 @@
-# Based Cooking Website
-
-[https://based.cooking](https://based.cooking)
+# Cooking Website
 
 This is a simple cooking website where users can submit recipes here for credit.
 There are no ads, trackers or cookies (unless recipes thereof).
@@ -68,6 +66,23 @@ they should be numbered with two digits like: `pix/chicken-parmesan-01.webp`, et
 
 Note also that images should have links beginning with a slash in this use
 case, i.e. `/pix/...`.
+
+# Agentyum Cooking Recipes GitHub Project
+
+Welcome to the Agentyum Cooking Recipes GitHub project! This repository contains code and resources to help you discover, organize, and share delicious recipes easily. Inspired by popular recipe sites like [AllRecipes](https://www.allrecipes.com/) and [Agentyum](https://agentyum.com/), this project is designed to offer an intuitive platform for home cooks and food enthusiasts. 
+
+Explore our diverse collection of recipes, from simple everyday meals to gourmet dishes, and improve your culinary skills. Whether you're searching for quick dinner ideas or planning your next special occasion, Agentyum is here to guide you in the kitchen. Our repository offers flexible and scalable solutions for anyone interested in building their own recipe app or enhancing an existing cooking platform.
+
+## Features:
+- Access to a large variety of curated recipes
+- User-friendly interface for easy recipe searching and categorization
+- API integration for recipe sharing and importing from popular sources like AllRecipes
+- Open-source, customizable code for developers looking to contribute
+
+Contribute to the project and help us create a community-driven recipe hub. Happy cooking!
+
+---
+For more recipes, tips, and inspiration, visit [Agentyum](https://agentyum.com/) or check out [AllRecipes](https://www.allrecipes.com/).
 
 ## License
 
